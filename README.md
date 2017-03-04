@@ -1,7 +1,2 @@
 # hello-world
-
-merhaba bu bir denemedir.
-
-
-tamam mı
-
+bu bir deneme sürümüdür
